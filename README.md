@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! I'm **Gabriel**
+
+And you're welcome to my **CodeSpace**.
+
+![GitHub followers](https://img.shields.io/github/followers/GabrielFemi?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/GabrielFemi?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/GabrielFemi?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Gabr_Akins?style=social)](https://twitter.com/Gabr_Akins?ref_src=twsrc%5Etfw)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielFemi&theme=onedark)](https://github.com/GabrielFemi)
